@@ -1,0 +1,176 @@
+body {
+    padding: o;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+
+}
+
+.banner-container {
+    width: 100%;
+    height: 650px;
+    background-image: url(images/donation3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.banner-area {
+    text-align: center;
+    color: #fff;
+}
+
+.banner-title {
+    font-size: 36px;
+}
+
+.banner-text {
+    margin-bottom: 30px;
+    ;
+}
+
+.banner-botton {
+    background: #F74F22;
+    text-decoration: none;
+    padding: 15px 25px;
+    margin-top: 10px;
+    color: #ffffff;
+}
+
+.donate-about {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.donate-amount {
+    text-align: center;
+}
+
+.donate-amount li {
+    list-style: none;
+    display: inline-block;
+    background-color: #F74F22;
+
+    padding: 30px 30px;
+    color: white;
+}
+
+#amount-color {
+    background-color: #0090FF;
+}
+
+.donate-submit {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.donate-botton {
+    background: #F74F22;
+    text-decoration: none;
+    padding: 15px 25px;
+    color: #ffffff;
+}
+
+.plan-about {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.donate-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-box {
+    width: 350px;
+    height: auto;
+    background-color: #FEAC02;
+    padding: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: #fff;
+
+}
+
+.shelter-box {
+    background-color: #5FBBAF;
+}
+
+.education-box {
+    background-color: #0090FF;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 0;
+}
+
+.team-area {
+    margin: 40px 0;
+    text-align: center;
+}
+
+.team-member {
+    width: 350px;
+    height: auto;
+    padding: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+
+}
+
+.team-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 0;
+}
+
+.news-container {
+    width: 100%;
+    margin: 0;
+}
+
+.newsletter-area {
+    text-align: center;
+    padding: 50px 0 15px 0;
+
+}
+
+.news-form {
+    width: 50%;
+    margin: auto;
+    background-color: #A5E3FF;
+    padding: 60px 50px;
+    border-radius: 12px;
+}
+
+.newsletter-input {
+    padding: 12px;
+    border: 2px solid #0090FF;
+    border-radius: 10px;
+}
+
+.newsletter-input-subscribe {
+    padding: 12px;
+    color: #ffffff;
+    background-color: #F74F22;
+    border: 2px solid #F74F22;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.footer-area {
+    background-color: #A5E3FF;
+    margin-top: 80px;
+    padding: 25px 0;
+    text-align: center;
+}
